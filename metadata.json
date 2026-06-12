@@ -1,0 +1,6 @@
+{
+  "name": "VÉLARE Atelier",
+  "description": "A luxury modern e-commerce shopping experience offering curated collection of men's wear, women's wear, accessories, footwear, and beauty, powered by an AI Personal Stylist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
